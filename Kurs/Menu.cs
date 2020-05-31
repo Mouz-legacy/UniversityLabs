@@ -10,21 +10,16 @@ using System.Windows.Forms;
 
 namespace Kursach
 {
-    public partial class Main : Form
+    public partial class Menu : Form
     {
-        public Main()
+        public Menu()
         {
             InitializeComponent();
         }
 
-        private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        private void egoldsCard1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void vScrollBar1_OnDragDrop(object sender, DragEventArgs e)
-        {
-
+            
         }
     }
 }

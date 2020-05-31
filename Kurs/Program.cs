@@ -17,7 +17,7 @@ namespace Kursach
             Animator.Start();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new Menu());
         }
     }
 }
