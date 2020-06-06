@@ -13,13 +13,25 @@ namespace Kursach
             InitializeComponent();
             buttonLogin1.RoundingEnable = true;
             DoubleBuffered = true;
+            passwordField1.UseSystemPasswordChar = true;
         }
 
         private void buttonLogin1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Registration registr = new Registration();
+            registr.Show();
+        }
+
+        private void buttonLogin1_Click_1(object sender, EventArgs e)
+        {
             string loginUser = loginField1.TextInput;
             string passUser = passwordField1.TextInput;
-
             DataBase db = new DataBase();//Работа с БД
             DataTable dataTable = new DataTable();
             MySqlDataAdapter adapter = new MySqlDataAdapter();
@@ -33,21 +45,17 @@ namespace Kursach
             adapter.SelectCommand = command;//Выполняем выбранную команду
             adapter.Fill(dataTable);
 
-            if(dataTable.Rows.Count > 0)//Если хотя бы 1 ряд совпал, то со 100% увереностью можем его логинить
+            if (dataTable.Rows.Count > 0)//Если хотя бы 1 ряд совпал, то со 100% увереностью можем его логинить
             {
                 MessageBox.Show("Seccesfully Log in");
+                this.Hide();
+                Menu menu = new Menu();
+                menu.Show();
             }
             else
             {
                 MessageBox.Show("Check entered data or register new account");
-            }
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-            this.Close();
-            //Registration();
+            }  
         }
     }
 }

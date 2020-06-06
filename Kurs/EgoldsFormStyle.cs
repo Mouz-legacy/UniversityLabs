@@ -30,6 +30,7 @@ namespace Kursach
         Point clickPosition;//Начальная позиция курсора в момент клика
         Point moveStartPosition;//Начальная позиция формы в момент клика
         bool BtnCloseHovered = false;
+        bool BtnCollapseHovered = false;
 
         Rectangle rectBtnClose = new Rectangle();
         readonly Pen WhitePen = new Pen(Color.White){ Width = 1.55F};
@@ -204,7 +205,7 @@ namespace Kursach
             DrawCrosshair(graph, rectCrosshair, WhitePen);
 
             //Кнопка -- 
-            graph.DrawLine(WhitePen, rectCollapse.X, rectCollapse.Y, rectCollapse.X + rectCollapse.Width, rectCollapse.Y);
+          //  graph.DrawLine(WhitePen, rectCollapse.X, rectCollapse.Y, rectCollapse.X + rectCollapse.Width, rectCollapse.Y);
 
             //Обводка
             graph.DrawRectangle(new Pen(Color.Black), rectBorder);
