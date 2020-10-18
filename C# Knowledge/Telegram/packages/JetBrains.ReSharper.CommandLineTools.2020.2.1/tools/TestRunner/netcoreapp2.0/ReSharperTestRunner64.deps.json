@@ -1,0 +1,112 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ReSharperTestRunner64/1.2.3.28": {
+        "dependencies": {
+          "JetBrains.ReSharper.TestRunner.Merged": "1.2.3.28"
+        },
+        "runtime": {
+          "ReSharperTestRunner64.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2020.1.0": {
+        "runtime": {
+          "JetBrains.Annotations.dll": {
+            "assemblyVersion": "2020.1.0.0",
+            "fileVersion": "2020.1.0.0"
+          }
+        }
+      },
+      "JetBrains.ReSharper.TestRunner.Abstractions/1.2.3": {
+        "dependencies": {
+          "JetBrains.Annotations": "2020.1.0"
+        },
+        "runtime": {
+          "JetBrains.ReSharper.TestRunner.Abstractions.dll": {}
+        }
+      },
+      "JetBrains.ReSharper.TestRunner.Merged/1.2.3.28": {
+        "dependencies": {
+          "JetBrains.ReSharper.TestRunner.Abstractions": "1.2.3"
+        },
+        "runtime": {
+          "JetBrains.ReSharper.TestRunner.Merged.dll": {}
+        }
+      },
+      "JetBrains.ReSharper.TestRunner.Utilities/1.2.3.1": {
+        "runtime": {
+          "JetBrains.ReSharper.TestRunner.Utilities.dll": {
+            "assemblyVersion": "1.2.3.1",
+            "fileVersion": "1.2.3.1"
+          }
+        }
+      },
+      "JetBrains.Lifetimes/777.0.0.0": {
+        "runtime": {
+          "JetBrains.Lifetimes.dll": {
+            "assemblyVersion": "777.0.0.0",
+            "fileVersion": "777.0.0.0"
+          }
+        }
+      },
+      "JetBrains.RdFramework/777.0.0.0": {
+        "runtime": {
+          "JetBrains.RdFramework.dll": {
+            "assemblyVersion": "777.0.0.0",
+            "fileVersion": "777.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReSharperTestRunner64/1.2.3.28": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    },
+    "JetBrains.Annotations/2020.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kD9D2ey3DGeLbfIzS8PkwLFkcF5vCOLk2rdjgfSxTfpoyovl7gAyoS6yq6T77zo9QgJGaVJ7PO/cSgLopnKlzg==",
+      "path": ".",
+      "hashPath": "jetbrains.annotations.2020.1.0.nupkg.sha512"
+    },
+    "JetBrains.ReSharper.TestRunner.Abstractions/1.2.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    },
+    "JetBrains.ReSharper.TestRunner.Merged/1.2.3.28": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    },
+    "JetBrains.ReSharper.TestRunner.Utilities/1.2.3.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    },
+    "JetBrains.Lifetimes/777.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    },
+    "JetBrains.RdFramework/777.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": "",
+      "path": "."
+    }
+  }
+}
