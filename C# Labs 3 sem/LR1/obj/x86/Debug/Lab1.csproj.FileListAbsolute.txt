@@ -72,3 +72,77 @@ C:\Users\Алексей\source\repos\Lab1\obj\x86\Debug\Lab1.csprojAssemblyRefer
 C:\Users\Алексей\source\repos\Lab1\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\Алексей\source\repos\Lab1\bin\x86\Debug\C1.UWP.Zip.dll
 C:\Users\Алексей\source\repos\Lab1\obj\x86\Debug\C1.UWP.Zip.pri.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\AOC 24G2U.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\AOC 24V2Q.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\AOC 27G2U.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\AOC C24G1.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\AOC G2590FX.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\BenQ EW3280U.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\BenQ PD3220U.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\BenQ PV270.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\BenQ SW270C.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\BenQ SW321C.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Dell P2418D.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Dell P2419H.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Dell P2720DC.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Dell S2721HGF.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Dell U2720Q.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\LG 24MK600M-B.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\LG 24MP59G-P.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\LG 27GL650F-B.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\LG 27GL850-B.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\LG 29UM69G-B.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Samsung C24RG50FQI.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Samsung C27JG50QQI.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Samsung C27RG50FQI.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Samsung S24F356FHI.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Assets\MonitorsPhotos\Samsung S24R350FHI.jpeg
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\App.xbf
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\MainPage.xbf
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Lab1.xr.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Lab1.exe
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Lab1.pdb
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\resources.pri
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\AppxManifest.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Core\Lab1.exe
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Lab1.build.appxrecipe
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\C1.UWP.Zip.dll
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\System.Runtime.dll
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\App.g.i.cs
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\App.g.cs
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\MainPage.g.cs
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\App.xaml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\MainPage.xaml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\App.xbf
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\MainPage.xbf
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Lab1.csproj.CopyComplete
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\C1.UWP.Zip.pri.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Lab1.exe
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\Lab1.pdb
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\priconfig.xml
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\resources.resfiles
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\pri.resfiles
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\qualifiers.txt
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Алексей\Documents\GitHub\MyProjects\C# Labs 3 sem\LR1\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

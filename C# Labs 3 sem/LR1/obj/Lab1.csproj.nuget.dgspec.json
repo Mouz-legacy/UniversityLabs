@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Алексей\\source\\repos\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Labs 3 sem\\LR1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Алексей\\source\\repos\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Labs 3 sem\\LR1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Алексей\\source\\repos\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Labs 3 sem\\LR1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\Алексей\\source\\repos\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Labs 3 sem\\LR1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Алексей\\source\\repos\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Labs 3 sem\\LR1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

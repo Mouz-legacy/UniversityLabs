@@ -1,26 +1,15 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.IO;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+using System.IO.Compression;
+using System.Linq;
 using Windows.ApplicationModel.Core;
-using Windows.Networking.Sockets;
 using Windows.Storage;
 using Windows.Storage.Pickers;
-using Windows.Storage.Streams;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Media.Imaging;
-using System.IO.Compression;
-using Newtonsoft.Json;
-using Windows.Storage.AccessCache;
-using System.Diagnostics;
-using System.Runtime.Serialization.Formatters.Binary;
-using Windows.UI.Popups;
-using C1.C1Zip;
 
 // Документацию по шаблону элемента "Пустая страница" см. по адресу https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x419
 
@@ -33,15 +22,15 @@ namespace Lab1
     {
         #region --Fields--
 
-        private SimpleCollection<Monitors> Monitorses;
-        private List<string> PhotosDirectory;
-        private List<(string, string, string)> Description;
+        private SimpleCollection<Monitors> Monitorses = new SimpleCollection<Monitors>();
+        private List<string> PhotosDirectory = new List<string>();
+        private List<(string, string, string)> Description = new List<(string, string, string)>();
         private readonly string _pathDirect = @"test.txt";
-        private SimpleCollection<Monitors> Samsung;
-        private SimpleCollection<Monitors> AOC;
-        private SimpleCollection<Monitors> LG;
-        private SimpleCollection<Monitors> DELL;
-        private SimpleCollection<Monitors> BenQ;
+        private SimpleCollection<Monitors> Samsung = new SimpleCollection<Monitors>();
+        private SimpleCollection<Monitors> AOC = new SimpleCollection<Monitors>();
+        private SimpleCollection<Monitors> LG = new SimpleCollection<Monitors>();
+        private SimpleCollection<Monitors> DELL = new SimpleCollection<Monitors>();
+        private SimpleCollection<Monitors> BenQ = new SimpleCollection<Monitors>();
 
         #endregion
 
@@ -49,7 +38,7 @@ namespace Lab1
         public MainPage()
         {
             InitializeComponent();
-            BasicAssignments();
+            LoadPhotosAndDescription();
         }
 
         private async void Contact_Click(object sender, RoutedEventArgs e)
@@ -63,8 +52,6 @@ namespace Lab1
             (string, string, string) interStr = (" ", " ", " ");
             char[] buffer = new char[150];
             var picker = new FileOpenPicker();
-            Description = new List<(string, string, string)>();
-
             picker.ViewMode = PickerViewMode.List;
             picker.FileTypeFilter.Add(".txt");
             var file = await picker.PickSingleFileAsync();
@@ -107,23 +94,12 @@ namespace Lab1
                 }
                 int iterator = 0;
 
-                foreach (var monitor in Monitorses)
-                {
-                    monitor.ChangeCompany(Description[iterator].Item1);
-                    monitor.ChangeModel(Description[iterator].Item2);
-                    monitor.Description = Description[iterator].Item3;
-                    if (iterator < 5)
-                        AOC.Add(monitor);
-                    else if (iterator < 10)
-                        BenQ.Add(monitor);
-                    else if (iterator < 15)
-                        DELL.Add(monitor);
-                    else if (iterator < 20)
-                        LG.Add(monitor);
-                    else if (iterator < 25)
-                        Samsung.Add(monitor);
-                    iterator++;
-                }
+
+                AOC = (SimpleCollection<Monitors>)Monitorses.Select(item => item.Company == "AOC");
+                BenQ = (SimpleCollection<Monitors>)Monitorses.Select(item => item.Company == "Benq");
+                DELL = (SimpleCollection<Monitors>)Monitorses.Select(item => item.Company == "DELL");
+                LG = (SimpleCollection<Monitors>)Monitorses.Select(item => item.Company == "LG");
+                Samsung = (SimpleCollection<Monitors>)Monitorses.Select(item => item.Company == "Samsung");
             }
         }
 
@@ -132,24 +108,9 @@ namespace Lab1
             CoreApplication.Exit();
         }
 
-        private void BasicAssignments()
-        {
-            Monitorses = new SimpleCollection<Monitors>();
-            LoadPhotosAndDescription();
-        }
-
         private async void LoadPhotosAndDescription()
         {
             PhotosDirectory = new List<string>();
-            #region --GovnoCode--
-
-            Samsung = new SimpleCollection<Monitors>();
-            AOC = new SimpleCollection<Monitors>();
-            LG = new SimpleCollection<Monitors>();
-            DELL = new SimpleCollection<Monitors>();
-            BenQ = new SimpleCollection<Monitors>();
-
-            #endregion
             char[] buffer = new char[100];
             StorageFolder storageFolder = ApplicationData.Current.LocalFolder;
             StorageFile filePathes = await storageFolder.GetFileAsync(_pathDirect);
@@ -213,7 +174,6 @@ namespace Lab1
             StorageFolder storageFolder = ApplicationData.Current.LocalFolder;
             StorageFile file = await storageFolder.CreateFileAsync("SaveInfo.txt", CreationCollisionOption.OpenIfExists);
             List<string> ForWrite = new List<string>();
-
             foreach (var monitor in Monitorses)
             {
                 ForWrite.Add(JsonConvert.SerializeObject(monitor));
@@ -227,7 +187,6 @@ namespace Lab1
         {
             StorageFolder storageFolder = ApplicationData.Current.LocalFolder;
             object locker = new object();
-
             try
             {
                 lock(locker)
