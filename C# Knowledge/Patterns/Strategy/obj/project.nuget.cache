@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJSgdkTlSJ/kVh7aYDM6BycV4tE+ZnlXmAMhMCSzSsyzFVqmhwR90khEIWkJWOwonV1dPDcpnN85/2+7Dxpzqw==",
+  "dgSpecHash": "BCQ0qdKpQdUfgSQNfWNLV/mOVgxLIYKwMzM2//HBTgisWFwv918qrg6CW0RZcqZK0lKlkIQOJoAYNtaLl/3Ezg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Алексей\\source\\repos\\Patterns\\Strategy\\Strategy.csproj",
+  "projectFilePath": "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Knowledge\\Patterns\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

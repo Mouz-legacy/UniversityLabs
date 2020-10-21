@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gg5pBMetTL3y0ahPefYXSAxrfkPElhVdux/JJLBbBDP2MkDk5ir/RziyMFNYb+VCme5jTFQsCtdLIPiKdvp2Tw==",
+  "dgSpecHash": "m2hMh0W36N5fdD0MdqX1k5ql+MNsrIEtRtDWAj3gVI7KtJVwBQtiVE/W9ntCkFNCwvvhWEClu8l5pBw2hA994Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Алексей\\source\\repos\\Patterns\\Observer\\Observer.csproj",
+  "projectFilePath": "C:\\Users\\Алексей\\Documents\\GitHub\\MyProjects\\C# Knowledge\\Patterns\\Observer\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
