@@ -1,0 +1,5 @@
+﻿  B.cpp
+C:\Users\Алексей\source\repos\WGForge\B\B.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\WGForge\B\B.cpp(15,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\WGForge\B\B.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+  B.vcxproj -> C:\Users\Алексей\source\repos\WGForge\B\Debug\B.exe
