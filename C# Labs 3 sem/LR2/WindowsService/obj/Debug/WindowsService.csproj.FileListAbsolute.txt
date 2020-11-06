@@ -1,0 +1,17 @@
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\Алексей\source\repos\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\Алексей\source\repos\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\Aspose.Zip.dll
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\DotNetZip.dll
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\System.Drawing.Common.dll
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\Aspose.Zip.xml
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\DotNetZip.pdb
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\DotNetZip.xml
+C:\Users\Алексей\source\repos\WindowsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Алексей\source\repos\WindowsService\obj\Debug\WindowsService.csproj.CopyComplete

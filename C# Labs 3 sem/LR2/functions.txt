@@ -1,0 +1,1 @@
+This Service can perform all the tasks that were given in the condition. It also know how to work with FTP server and encryption.
