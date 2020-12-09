@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\FileManager\bin\Debug\FileManager.dll.config
+C:\Users\Алексей\source\repos\FileManager\bin\Debug\FileManager.dll
+C:\Users\Алексей\source\repos\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Алексей\source\repos\FileManager\bin\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Алексей\source\repos\FileManager\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Алексей\source\repos\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\Users\Алексей\source\repos\FileManager\obj\Debug\FileManager.dll
+C:\Users\Алексей\source\repos\FileManager\obj\Debug\FileManager.pdb
